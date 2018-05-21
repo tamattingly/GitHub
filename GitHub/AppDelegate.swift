@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  GitHub
-//
-//  Created by Timothy Mattingly on 5/21/18.
-//  Copyright © 2018 Timothy Mattingly. All rights reserved.
+
 //
 
 import UIKit
